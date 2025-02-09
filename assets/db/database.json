@@ -1,0 +1,65 @@
+{
+  "app_name": "Profile",
+  "version": "1.0.0",
+  "data": {
+    "img": "./assets/img/fff.png",
+    "name": "Name",
+    "nav_links": [
+      {
+        "name": "Home",
+        "url": "#home"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Expertise",
+        "url": "#expertise"
+      },
+      {
+        "name": "Skills",
+        "url": "#skils"
+      }
+    ],
+    "speciality": "System Administrator | Network Administrator | Virtualization Specialist",
+    "social_links": [
+      {
+        "name": "Github",
+        "url": "https://github.com/"
+      },
+      {
+        "name": "Linkedin",
+        "url": "#"
+      }
+    ],
+    "about": "Self-motivated fast learner. Loves System Development and Network Engineering. Experienced in both deploying and troubleshooting systems and networks for large-scale or remote environments. Mainly focus on secure result. Multi-brand device user.",
+    "expertise": [
+      {
+        "icon": "bi bi-laptop",
+        "title": "System Administration",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quibusdam minima accusantium non molestiae consectetur accusamus sed, sequi rem odit pariatur adipisci vel. Pariatur, laborum. Repellendus itaque incidunt exercitationem consequatur sunt."
+      },
+      {
+        "icon": "bi bi-code",
+        "title": "Coding",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quibusdam minima accusantium non molestiae consectetur accusamus sed, sequi rem odit pariatur adipisci vel. Pariatur, laborum. Repellendus itaque incidunt exercitationem consequatur sunt."
+      },
+      {
+        "icon": "bi bi-database",
+        "title": "Database Administration",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quibusdam minima accusantium non molestiae consectetur accusamus sed, sequi rem odit pariatur adipisci vel. Pariatur, laborum. Repellendus itaque incidunt exercitationem consequatur sunt."
+      }
+    ],
+    "skils": [
+      {
+        "title": "Title 1",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quibusdam minima accusantium non molestiae consectetur accusamus sed, sequi rem odit pariatur adipisci vel. Pariatur, laborum. Repellendus itaque incidunt exercitationem consequatur sunt."
+      },
+      {
+        "title": "Title 2",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quibusdam minima accusantium non molestiae consectetur accusamus sed, sequi rem odit pariatur adipisci vel. Pariatur, laborum. Repellendus itaque incidunt exercitationem consequatur sunt."
+      }
+    ]
+  }
+}
